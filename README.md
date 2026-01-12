@@ -1,4 +1,4 @@
-# Office_Tools_Releases
+# Office_Tools_Ultimate Releases
 This is our Official Office_Tools Application Release section and we will give regular updates and new features on this repo
 
 For Lite version: [Visit:](https://github.com/TacticsPro/Office_Tools_Lite_Releases)
@@ -6,7 +6,7 @@ For Lite version: [Visit:](https://github.com/TacticsPro/Office_Tools_Lite_Relea
 
 # 🧾 Office Tools for GST & Tally Automation
 
-**Office Tools** is a powerful desktop toolkit designed to simplify and automate workflows related to GST filings and Tally-compatible data preparation. It is especially built for accountants, tax consultants, and businesses dealing with high volumes of financial transactions.
+**Office Tools Ultimate** is a powerful desktop toolkit designed to simplify and automate workflows related to GST filings and Tally-compatible data preparation. It is especially built for accountants, tax consultants, and businesses dealing with high volumes of financial transactions.
 
 From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines data manipulation, comparison, conversion, and reporting with high accuracy and Excel automation.
 
@@ -61,7 +61,7 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 <img width="581" height="640" alt="Cert2" src="https://github.com/user-attachments/assets/c8f068fb-f7e7-440e-a170-9ad756bd6cd1" />
 <img width="662" height="637" alt="Cert3" src="https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b" />
 
-1. Download the All release from the [Releases](https://github.com/TacticsPro/Office_Tools_Releases/releases) section.
+1. Download the All release from the [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases) section.
 2. Download msix Office_Tools_X_X_X_X_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
 3. or also you can Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version) section.
 4. Run the installer and follow on-screen instructions.
@@ -96,7 +96,7 @@ To purchase a license or for bulk licensing inquiries, contact:
 
 For support, feedback, or demo requests, please contact:  
 📩 `gpenmail@gmail.com`  
-🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Releases/releases)
+🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)
  © TacticsPro. All rights reserved
 ---
 
