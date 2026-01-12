@@ -1,3 +1,4 @@
+# NON MACRO BASED APPLICATION
 # Office_Tools_Ultimate Releases
 This is our Official Office_Tools Application Release section and we will give regular updates and new features on this repo
 
@@ -5,7 +6,7 @@ For Lite version: [Visit:](https://github.com/TacticsPro/Office_Tools_Lite_Relea
 1. Step By Step Guide: [Guide](https://tacticspro.github.io/Office_Tools_Latest_Version/) section.
 
 # 🧾 Office Tools for GST & Tally Automation
-**GOOD BYE to Excel macro! Our app doesn't requred any excel macro to be enabled. keep it disabled in trust center**
+**GOOD BYE to Excel macro! Our app doesn't requred any excel macro to be enabled. keep it disabled in trust center**.
 **Our app able to create excel file without the excel app installed. only if you need to make any correction in excel file then you will need excel app. no developer o macro needed.**
 **Office Tools Ultimate** is a powerful desktop toolkit designed to simplify and automate workflows related to GST filings and Tally-compatible data preparation. It is especially built for accountants, tax consultants, and businesses dealing with high volumes of financial transactions.
 
