@@ -1,106 +1,143 @@
-# NON MACRO BASED APPLICATION
-# Office_Tools_Ultimate Releases
-This is our Official Office_Tools Application Release section and we will give regular updates and new features on this repo
+## 🚫 Non-Excel Macro Based Application
+# 🧾 Office Tools Ultimate – Official Releases
 
-For Lite version: [Visit:](https://github.com/TacticsPro/Office_Tools_Lite_Releases)
-1. Step By Step Guide: [Guide](https://tacticspro.github.io/Office_Tools_Latest_Version/) section.
+This repository contains the **official release builds** of **Office Tools Ultimate**.  
+We provide **regular updates, bug fixes, and new features** here.
 
-# 🧾 Office Tools for GST & Tally Automation
-**GOOD BYE to Excel macro! Our app doesn't requred any excel macro to be enabled. keep it disabled in trust center**.
-**Our app able to create excel file without the excel app installed. only if you need to make any correction in excel file then you will need excel app. no developer o macro needed.**
-**Office Tools Ultimate** is a powerful desktop toolkit designed to simplify and automate workflows related to GST filings and Tally-compatible data preparation. It is especially built for accountants, tax consultants, and businesses dealing with high volumes of financial transactions.
+### 🛠️ Development & Credits
+- **Core Logic & Architecture:** TacticsPro  
+- **Application Design & Workflow:** TacticsPro  
+- **Code Assistance & Research:** ChatGPT (latest), Grok (latest), Bing AI (latest)  
+- **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review  
 
-From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines data manipulation, comparison, conversion, and reporting with high accuracy and Excel automation.
+🔹 **Lite Version:**  
+👉 [Office Tools Lite Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases)
+
+🔹 **Step-by-Step User Guide:**  
+👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Latest_Version/)
+
+---
+
+**GOODBYE to Excel macros!**  
+- No need to enable macros — keep them disabled in the Trust Center.  
+- Works even if Excel is **not installed**.  
+- Excel is **optional** (2021 or Microsoft 365) — only required for advanced formulas like **XLOOKUP** or manual corrections.  
+
+> Create Excel, XML, JSON, and PDF files automatically — without macros, add-ins, or developer mode.
+
+---
+
+## 🌟 Why Choose Office Tools Ultimate?
+
+- **Zero Excel Macros** required  
+- **Automates GST & Tally workflows** end-to-end  
+- **Generates clean Excel, XML, JSON, PDF** outputs  
+- **Designed for Indian GST compliance** and Tally Prime/ERP 9 users  
+- Built for **Accountants, Tax Consultants, CA Firms, and Businesses** handling high-volume data  
 
 ---
 
 ## 🚀 Key Features
 
 ### 📊 GST & GSTR Utilities
-- **GSTR-2A, 2B, and 8A Processing**  
-  Clean, filter, and convert purchase data into Tally-importable formats.
-- **GSTR-3B to Excel Converter**  
-  Extract structured Excel data from PDF GSTR-3B returns.
-- **GSTR vs Tally Comparison Tool**  
-  Reconcile GSTR data with Tally records and highlight mismatches.
-- **GSTR Notice Reply Generator**  
-  Generate formatted, professional replies to GSTR notices using your data.
+- GSTR-2A / 2B / 8A → Clean, filter, prepare purchase/CNDN data for accounting entry  
+- GSTR-3B PDF → Excel Converter  
+- GSTR vs Books/Tally → Reconciliation with mismatch highlights  
+- GST Notice Reply Generator → Professional formatted replies  
+- Excel → GSTR-1 JSON Generator  
+- HSN Summary → JSON (for GSTR-9 & others)  
+- Balance Sheet with Projections  
 
-### 📥 Excel Import Tools
-- **CSV/Excel Cleanup for Tally**  
-  Prepare purchase and sales data for smooth Tally entry.
-- **Excel Sheet Merger**  
-  Combine multiple Excel workbooks or sheets into one clean master file.
+### 📥 Excel & Data Utilities
+- CSV / Excel Cleanup for Accounting/Tally  
+- Multi-file Excel Sheet & Workbook Merger  
+- GSTR PDF → Excel Converter  
+- Batch Excel → PDF Converter  
 
-### 🧾 Tally XML Generator
-- **Automated Tally Import XML**  
-  Generate import-ready XML files for:
-  - **Voucher Entries**
-  - **Sales / Purchase Entries**
-  - **Bank Transactions**
-  - **Ledger Master Creation**
+### 🧾 Tally XML Automation
+- Voucher XML Generator (Sales, Purchase, CN/DN, Bank, Journal)  
+- Ledger Master Creation XML  
+- Custom XML Voucher Generator  
+- Voucher → Excel → XML workflow  
+- Ready-to-import Accounting XML  
 
-### 🧰 Additional Utilities
-- **Excel to PDF Converter**  
-  Batch convert Excel sheets into professional-grade PDFs.
-- **Automation Support**  
-  Enable faster and more accurate manual data entry processes.
+### ⌨️ Advanced Automation
+- Keyboard Simulation for fast data entry  
+- Voucher number & narration correction  
+- Bulk entry automation helpers  
 
 ---
 
 ## 🖥️ System Requirements
 
-| Requirement          | Minimum Specification       |
-|----------------------|------------------------------|
-| **Operating System** | Windows 10 or higher         |
-| **Optional Excel Version**    | Excel 2021 or Microsoft 365  |
-| **.NET Runtime**     | .NET 10.0+ or Bundled via app|
+| Component | Requirement |
+|-----------|-------------|
+| OS        | Windows 10 or higher |
+| Excel     | ❌ Not required |
+| Optional  | Excel 2021 / Microsoft 365 (for XLOOKUP/advanced editing) |
+| Runtime   | .NET 10.0+ (bundled with app) |
 
 ---
 
 ## 📦 Installation
-<img width="444" height="579" alt="Cert1" src="https://github.com/user-attachments/assets/43e35bb7-3bfa-4d78-a5b1-0e7b1c49f9af" />
-<img width="581" height="640" alt="Cert2" src="https://github.com/user-attachments/assets/c8f068fb-f7e7-440e-a170-9ad756bd6cd1" />
-<img width="662" height="637" alt="Cert3" src="https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b" />
 
-1. Download the All release from the [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases) section.
-2. Download msix Office_Tools_X_X_X_X_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
-3. or also you can Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version) section.
-4. Run the installer and follow on-screen instructions.
-5. Enable VBA in Excel Application
-6. Ensure Excel 2021 or 365 is installed and licensed.
-7. Launch the app via Start Menu or desktop shortcut.
+![Cert1](https://github.com/user-attachments/assets/43e35bb7-3bfa-4d78-a5b1-0e7b1c49f9af)  
+![Cert2](https://github.com/user-attachments/assets/c8f068fb-f7e7-440e-a170-9ad756bd6cd1)  
+![Cert3](https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b)  
+
+1. Download the latest release:  
+   👉 [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)  
+2. Download the certificate file:  
+   `Office_Tools_X_X_X_X_x64_Debug.cer`  
+3. Install certificate:  
+   **Local Machine → Trusted Root Certification Authorities**  
+4. Install the MSIX package  
+5. Launch the app from **Start Menu or Desktop**  
+
+> ⚠️ Excel macros are NOT required  
+> ⚠️ Excel installation is optional  
 
 ---
 
-## 📘 How to Use
+## 📘 Quick Start
 
-1. Open **Office Tools**.
-2. Choose a module from the navigation panel.
-3. Follow prompts to import Excel/CSV/PDF data.
-4. Process, convert, or compare as needed.
-5. Export cleaned files as Excel, XML (for Tally), or PDF.
+1. Open **Office Tools Ultimate**  
+2. Select a module from the sidebar  
+3. Import Excel / CSV / PDF data  
+4. Process, compare, or convert  
+5. Export results as:  
+   - Excel  
+   - XML (for Tally/accounting software)  
+   - PDF  
+   - JSON (GST returns)  
 
 ---
 
 ## 📄 License
 
-This is a **commercial licensed application** developed by **TacticsPro**.  
-A valid license is required to use the software.
+🔒 **Commercial Licensed Software**  
+Developed by **TacticsPro**
 
-- 💰 Price: ₹4200/year per PC only!
-- 🖥️ Single license per system (non-transferable)
+- 💰 Price: ₹4200 / year / PC  (Ask for special discounts)
+- 🖥️ Single-system license  
+- 🔁 Non-transferable  
 
-To purchase a license or for bulk licensing inquiries, contact:
+📩 For license purchase, demo, or bulk licensing:  
+**gpenmail@gmail.com**
 
 ---
-## 📧 Contact
 
-For support, feedback, or demo requests, please contact:  
-📩 `gpenmail@gmail.com`  
-🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)
- © TacticsPro. All rights reserved
+## 🔗 Useful Links
+
+- [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)  
+- [Lite Version](https://github.com/TacticsPro/Office_Tools_Lite_Releases)  
+- [Documentation](https://tacticspro.github.io/Office_Tools_Latest_Version/)  
+
 ---
 
-> ⚠️ This project is not affiliated with Tally Solutions Pvt. Ltd. Excel and Tally are trademarks of their respective owners.
+## ⚠️ Disclaimer
 
+This project is **not affiliated with Tally Solutions Pvt. Ltd.**  
+Excel and Tally are trademarks of their respective owners.  
+
+© 2024–2026 **TacticsPro**. All rights reserved.  
