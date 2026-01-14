@@ -122,6 +122,7 @@ Developed by **TacticsPro**
 - 🖥️ Single-system license  
 - 🔁 Non-transferable  
 
+## 📧 Contact
 📩 For license purchase, demo, or bulk licensing:  
 **gpenmail@gmail.com**
 
