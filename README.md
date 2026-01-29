@@ -3,7 +3,6 @@
 
 This repository contains the **official release builds** of **Office Tools Ultimate**.  
 We provide **regular updates, bug fixes, and new features** here.
-## Go to profile ##
 [Profile](https://github.com/TacticsPro)
 
 ### 🛠️ Development & Credits
