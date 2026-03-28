@@ -8,14 +8,5 @@
   "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.4.5.0/Office_Tools_Ultimate_8.4.5.0_x64.msi",
   "msi_sha256": "490af01a813f41f4d07437f424fc30d93787ca7ca629093995efd041a7f5fbd1",
 
-  "min_version": "8.0.0.0",
-
-  "lite_latest_version": "8.4.2.0",
-  "lite_release_notes": "Added #NA auto write in list sheet (26-02-2026)",
-
-  "lite_msix_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.4.2.0/Office_Tools_Lite_8.4.2.0_x64.msix",
-  "lite_msix_sha256": "5106a0e6b4c31dd155d0ebeb3124efff5419903945cf9533d4ffc72b3cab5c27",
-
-  "lite_msi_download_url": "https://github.com/TacticsPro/Office_Tools_Lite_Releases/releases/download/Office_Tools_Lite_v_8.4.2.0/Office_Tools_Lite_8.4.2.0_x64.msi",
-  "lite_msi_sha256": "af878d227896d62aad27ef8897435be52910d9c2d78717201a3beaf07e8e2af4"
+  "min_version": "8.0.0.0"
 }
