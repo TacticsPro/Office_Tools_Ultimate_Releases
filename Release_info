@@ -1,0 +1,12 @@
+{
+  "latest_version": "8.4.5.0",
+  "release_notes": "Added Sales/Purchase Day wise converter which helps to adjust data to Day wise from Single bills. (06-03-2026)",
+
+  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.4.5.0/Office_Tools_Ultimate_8.4.5.0_x64.msix",
+  "msix_sha256": "da9a8e8e664e9e332e86d7996abb1365e882020688a2cd33ec5752b5ed76075d",
+
+  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.4.5.0/Office_Tools_Ultimate_8.4.5.0_x64.msi",
+  "msi_sha256": "490af01a813f41f4d07437f424fc30d93787ca7ca629093995efd041a7f5fbd1",
+
+  "min_version": "8.0.0.0",
+}
