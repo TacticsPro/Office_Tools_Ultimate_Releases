@@ -1,12 +1,12 @@
 {
-  "latest_version": "8.5.0.0",
-  "release_notes": "Fixes some bugs related Balance sheet, GSTIN writing issue in turnover generator and added new Advance HSN (28-03-2026)",
+  "latest_version": "8.5.0.1",
+  "release_notes": "Added hsn description fill for Advanced HSN (30-03-2026)",
 
-  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.0.0/Office_Tools_Ultimate_8.5.0.0_x64.msix",
-  "msix_sha256": "86e699f8daf2c0f8294c29e77c32963eea3db8ff5abbee7642a965f5d7451727",
+  "msix_download_url": "raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSIX.msix",
+  "msix_sha256": "9b85143c98738790abd1f45dd3d0f9eb95ee5d41f26240a3f8549058a9918989",
 
-  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.0.0/Office_Tools_Ultimate_8.5.0.0_x64.msi",
-  "msi_sha256": "da8804f918a4cebe71734b80627f971b1e3e894683d572eabee96001c8ad1eac",
+  "msi_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSI.msi",
+  "msi_sha256": "3b5f3aa57a8fb2e89df325232f5ab31671218fe02d13a86184d21005ec52a855",
 
   "min_version": "8.0.0.0"
 }
