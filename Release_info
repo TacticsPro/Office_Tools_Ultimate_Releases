@@ -2,7 +2,7 @@
   "latest_version": "8.5.0.1",
   "release_notes": "Added hsn description fill for Advanced HSN (30-03-2026)",
 
-  "msix_download_url": "raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSIX.msix",
+  "msix_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSIX.msix",
   "msix_sha256": "9b85143c98738790abd1f45dd3d0f9eb95ee5d41f26240a3f8549058a9918989",
 
   "msi_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSI.msi",
