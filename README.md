@@ -9,7 +9,7 @@ We provide **regular updates, bug fixes, and new features** here.
 ### 🛠️ Development & Credits
 - **Core Logic & Architecture:** TacticsPro  
 - **Application Design & Workflow:** TacticsPro  
-- **Code Assistance & Research:** ChatGPT (latest), Grok (latest), Bing AI (latest)  
+- **Code Assistance & Research:** ChatGPT (latest), Claude-Sonnet (Latest), Grok (latest), Bing AI (latest)
 - **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review  
 
 🔹 **Lite Version:**  
