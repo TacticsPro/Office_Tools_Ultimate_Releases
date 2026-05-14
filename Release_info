@@ -1,12 +1,12 @@
 {
-  "latest_version": "8.5.0.4",
-  "release_notes": "Fixed GSTR-3B with Non GST outwards and added RCM outward (23-04-2026)",
+  "latest_version": "8.5.1.0",
+  "release_notes": "Fixes bugs and Improvement, New app allows only one instance. (14-05-2026)",
 
   "msix_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSIX.msix",
-  "msix_sha256": "45dc5b63d63b7a18a1054c8e45c4ed01a771d3c75be32d90fe56ac26bb3c0395",
+  "msix_sha256": "562c51a358209de659115610f4005b49bccdc400e792b71144128e0a992e404f",
 
   "msi_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSI.msi",
-  "msi_sha256": "b374d698c7037475bb037a9ae8bc69395fd86d817229f83d6102392747a7e012",
+  "msi_sha256": "d2a5859d95f14938127b841c4555e206d11af4c3af377d8c7c2ac6317fd24124",
 
   "min_version": "8.0.0.0"
 }
