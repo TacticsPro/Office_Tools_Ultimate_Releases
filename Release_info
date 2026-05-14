@@ -2,10 +2,10 @@
   "latest_version": "8.5.1.0",
   "release_notes": "Fixes bugs and Improvement, New app allows only one instance. (14-05-2026)",
 
-  "msix_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSIX.msix",
+  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.1.0/Office_Tools_Ultimate_8.5.1.0_x64.msix",
   "msix_sha256": "562c51a358209de659115610f4005b49bccdc400e792b71144128e0a992e404f",
 
-  "msi_download_url": "https://raw.githubusercontent.com/TacticsPro/Office_Tools_Latest_Version/refs/heads/main/Office_Tools_Ultimate_MSI.msi",
+  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.1.0/Office_Tools_Ultimate_8.5.1.0_x64.msi",
   "msi_sha256": "d2a5859d95f14938127b841c4555e206d11af4c3af377d8c7c2ac6317fd24124",
 
   "min_version": "8.0.0.0"
