@@ -2,11 +2,11 @@
   "latest_version": "8.5.2.0",
   "release_notes": "Dynamic header for Excel and XML convertor and Data validation for XMl. \nAdded 0% Room Rent. Fixed Custom xml Tutorial.Introduced Isinvoice method for voucher xml (26-05-2026)",
 
-  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.0/Office_Tools_Ultimate_8.5.2.0_x64.msix",
-  "msix_sha256": "97b5cdb0541674c9d95881546ffb6738ddfded91edbfe6c401a4698ff030c453",
+  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.1/Office_Tools_Ultimate_8.5.2.1_x64.msix",
+  "msix_sha256": "79ff2d8d02194c0a755d4b8371a19e7383194177c48d8af79d946498bbcc00e1",
 
-  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.0/Office_Tools_Ultimate_8.5.2.0_x64.msi",
-  "msi_sha256": "d8cfaadaf4e831e3907a6bd6fe69865fdc21944b8c31b5cee07f96d8e7858456",
+  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.1/Office_Tools_Ultimate_8.5.2.1_x64.msi",
+  "msi_sha256": "dc450208fa857d9accd7d4291635195e150ea977dd8e984993614933140567da",
 
   "min_version": "8.0.0.0"
 }
