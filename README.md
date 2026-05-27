@@ -126,7 +126,7 @@ Developed by **TacticsPro**
 
 ## 📧 Contact
 📩 For license purchase, demo, or bulk licensing:  
-**gpenmail@gmail.com**
+**tacticsprogit@gmail.com**
 
 ---
 
