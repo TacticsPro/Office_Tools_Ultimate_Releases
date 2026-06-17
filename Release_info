@@ -1,12 +1,12 @@
 {
-  "latest_version": "8.5.2.0",
-  "release_notes": "Dynamic header for Excel and XML convertor and Data validation for XMl. \nAdded 0% Room Rent. Fixed Custom xml Tutorial.Introduced Isinvoice method for voucher xml (26-05-2026)",
+  "latest_version": "8.5.2.2",
+  "release_notes": "Now only when actual diff found Diff Sheet created, Added Help sheet for Pepper Sales & Purchase,\nFixed Selected file name for GSTR-1 & 9, Fixed Special rate taxable not writing to xml (17-06-2026)",
 
-  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.1/Office_Tools_Ultimate_8.5.2.1_x64.msix",
-  "msix_sha256": "79ff2d8d02194c0a755d4b8371a19e7383194177c48d8af79d946498bbcc00e1",
+  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.2/Office_Tools_Ultimate_8.5.2.2_x64.msix",
+  "msix_sha256": "44207c97b88037c95a686e4be137adc494e750cdde312a9f85c7ad23138433cf",
 
-  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.1/Office_Tools_Ultimate_8.5.2.1_x64.msi",
-  "msi_sha256": "dc450208fa857d9accd7d4291635195e150ea977dd8e984993614933140567da",
+  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/download/Office_Tools_Ultimate_V_8.5.2.2/Office_Tools_Ultimate_8.5.2.2_x64.msi",
+  "msi_sha256": "b604601cedd0258bba89e94a348b056e99e4339c1dc984b0e73e3c089d7b7a46",
 
   "min_version": "8.0.0.0"
 }
