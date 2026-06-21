@@ -1,6 +1,6 @@
 {
   "latest_version": "8.5.2.2",
-  "release_notes": "Added Action ",
+  "release_notes": "Now only when actual diff found Diff Sheet created, Added Help sheet for Pepper Sales & Purchase, \nFixed Selected file name for GSTR-1 & 9, Fixed Special rate taxable not writing to xml",
   "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.2.2_x64.msix",
   "msix_sha256": "3dd0349376792b84c286fa85d27cc126ed4e6bba36c20d18550f9f53eb71ab36",
   "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.2.2_x64.msi",
