@@ -16,7 +16,7 @@ We provide **regular updates, bug fixes, and new features** here.
 👉 [Office Tools Lite Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases)
 
 🔹 **Step-by-Step User Guide:**  
-👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Latest_Version/)
+👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Tutorials/)
 
 ---
 
@@ -134,7 +134,7 @@ Developed by **TacticsPro**
 
 - [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)  
 - [Lite Version](https://github.com/TacticsPro/Office_Tools_Lite_Releases)  
-- [Documentation](https://tacticspro.github.io/Office_Tools_Latest_Version/)  
+- [Documentation](https://tacticspro.github.io/Office_Tools_Tutorials/)  
 
 ---
 
