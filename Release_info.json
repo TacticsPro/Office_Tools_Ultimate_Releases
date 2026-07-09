@@ -1,9 +1,9 @@
 {
-  "latest_version": "8.5.2.3",
+  "latest_version": "Office_Tools_Ultimate_8.5.2.3",
   "release_notes": "Bug Fixes and Improvements ",
   "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_MSIX_8.5.2.3_x64.msix",
   "msix_sha256": "82a7ede580478f433dec38256717b86e3730a5eed86dd1495e95c840fb6039f7",
-  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.2.2_x64.msi",
-  "msi_sha256": "d002c17b0dddb802fc359c11ec77e3ce64ec8b9f215db58110591fa51ada71b0",
+  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_MSI_8.5.2.3_x64.msi",
+  "msi_sha256": "bc1bd90fea49337f8b2d9c704b8e4a5f352ee2ad978e3acc685acd36985e979b",
   "min_version": "8.0.0.0"
 }
