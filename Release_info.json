@@ -5,5 +5,5 @@
   "msix_sha256": "a8269e6b38077c69635cf9a3086a2d269c30fcb5d0108be8047436571c632762",
   "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.3.0_x64.msi",
   "msi_sha256": "bd84d2b3b17bdb229dea55f180cb433c5dec91796b91f4d1be6bdbb05a6669ba",
-  "min_version": "8.0.0.0"
+  "min_version": "8.5.3.0"
 }
