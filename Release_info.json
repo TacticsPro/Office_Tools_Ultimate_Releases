@@ -1,9 +1,9 @@
 {
-  "latest_version": "8.5.4.0",
-  "release_notes": "Removed Xlookup for Sales Improved UI & Layout Added new GSTR-2B Summary Generation ",
-  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.4.0_x64.msix",
-  "msix_sha256": "a66bac85287a22cb8d2bb6c066491e815f5f4126513bfbea1a5d1094d716b680",
-  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.4.0_x64.msi",
-  "msi_sha256": "cba7671d2f9e005001327cb7ecdcdab6b003e3557332dcf27eda26653185b91c",
+  "latest_version": "8.5.4.1",
+  "release_notes": "Bug fixes & Improvements ",
+  "msix_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.4.1_x64.msix",
+  "msix_sha256": "db81b1e787380c25c659128c29539c57d21c0589202f748e64da38bc6e7430ee",
+  "msi_download_url": "https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest/download/Office_Tools_Ultimate_8.5.4.1_x64.msi",
+  "msi_sha256": "0107a0260bae01da0e10877e04665b1a15cf48518cefc85408d0d9fa4be6e963",
   "min_version": "8.5.3.0"
 }
