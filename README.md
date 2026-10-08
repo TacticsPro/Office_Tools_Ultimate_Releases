@@ -18,8 +18,9 @@ We provide **regular updates, bug fixes, and new features** here.
 🔹 **Step-by-Step User Guide:**  
 👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Tutorials/)
 
-🔹 **Lite Version:** latest releases
+🔹 **Lite Version:** latest releases  
 👉 [Office Tools Lite Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases)
+
 ---
 
 **GOODBYE to Excel macros!**  
