@@ -12,7 +12,7 @@ We provide **regular updates, bug fixes, and new features** here.
 - **Code Assistance & Research:** ChatGPT (latest), Claude-Sonnet (Latest), Grok (latest), Bing AI (latest)
 - **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review  
 
-🔹 **Ultimate Version:** latest releases
+🔹 **Ultimate Version:** latest releases  
 👉 [Office Tools Ultimate Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)
    
 🔹 **Step-by-Step User Guide:**  
