@@ -13,7 +13,7 @@ We provide **regular updates, bug fixes, and new features** here.
 - **Error Correction & Bug Fixing:** TacticsPro with AI-assisted review  
 
 🔹 **Ultimate Version:** latest releases
-   👉 [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)
+👉 [Office Tools Ultimate Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)
    
 🔹 **Step-by-Step User Guide:**  
 👉 [Installation & Usage Guide](https://tacticspro.github.io/Office_Tools_Tutorials/)
