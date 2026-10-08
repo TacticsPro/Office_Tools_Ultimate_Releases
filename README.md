@@ -91,7 +91,7 @@ We provide **regular updates, bug fixes, and new features** here.
 ![Cert3](https://github.com/user-attachments/assets/ba0976b8-383b-4ffd-9570-91ed27c3415b)  
 
 1. Download the latest release:  
-   👉 [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latests)  
+  👉 https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases/latest 
 2. Download the certificate file:  
    `Office_Tools_X_X_X_X_x64_Debug.cer`  
 3. Install certificate:  
@@ -135,8 +135,8 @@ Developed by **TacticsPro**
 
 ## 🔗 Useful Links
 
-- [Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)  
-- [Lite Version](https://github.com/TacticsPro/Office_Tools_Lite_Releases)  
+- [Ultimate All Releases](https://github.com/TacticsPro/Office_Tools_Ultimate_Releases/releases)  
+- [Lite All Releases](https://github.com/TacticsPro/Office_Tools_Lite_Releases)  
 - [Documentation](https://tacticspro.github.io/Office_Tools_Tutorials/)  
 
 ---
